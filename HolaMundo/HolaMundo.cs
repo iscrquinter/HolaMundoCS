@@ -14,6 +14,7 @@ namespace HolaMundo
 
             Console.WriteLine("Hola Mundo!");
             Console.WriteLine("Hola " + nombre);
+            Console.WriteLine("Hola México!");
             Console.ReadLine();
         }
     }
