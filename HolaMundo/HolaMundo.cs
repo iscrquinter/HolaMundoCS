@@ -10,8 +10,10 @@ namespace HolaMundo
     {
         public static void Main()
         {
+            String nombre = "Ricardo Rafael Quintero Meza";
+
             Console.WriteLine("Hola Mundo!");
-            Console.WriteLine("Hola Ricardo Rafael Quintero Meza");
+            Console.WriteLine("Hola " + nombre);
             Console.ReadLine();
         }
     }
